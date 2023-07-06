@@ -1,0 +1,5 @@
+git branch --> show the list of branches
+git branch <branch name> -->create a branch
+git add <file name> -->add the specific file to staging area
+git add .  -->add all the files to changing area
+git commit -m "<message>" -->commit all files in the staging area
